@@ -1,8 +1,18 @@
 # Índice
-1. Introducción a Git
-2. Archivos en Git
-3. Commits
-4. Branches
-5. Diffs
-6. Merges
-7. Repositorios remotos
+1. [Introducción a Git](Intro/conceptos_generales.md)
+     1. [Operaciones básicas](Intro/operaciones.md)
+2. [Archivos en Git](Archivos/categorias.md)
+     1. [Operaciones sobre archivos](Archivos/operaciones-CHEQUEAR.md)
+3. [Commits](Commits/intro.md)
+     1. [Tags](Commits/tag.md)
+     2. [Comandos](Commits/comandos.md)
+     3. [Debugging con git bisect](Commits/bisect.md)
+4. [Branches](Branches/intro-CHEQUEAR.md)
+     1. [Comandos](Branches/comandos.md)
+5. [Diffs](Diffs/intro.md)
+     1. [Comandos](Diffs/comandos.md)
+6. [Merges](Merges/intro.md)
+     1. [Operaciones](Merges/comandos.md)
+     2. [Rebasing](Merges/rebasing.md)
+7. [Repositorios remotos](Repositorios_remotos/intro.md)
+     1. [Operaciones sobre repositorios remotos](Repositorios_remotos/operaciones.md)
