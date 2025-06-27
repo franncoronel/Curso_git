@@ -39,8 +39,8 @@ El id del commit puede ser su número de hash, su tag (si lo tiene) o
 - HEAD
 - HEAD~
 - HEAD~~
-- HEAD~2
-Siendo HEAD el commit más reciente, HEAD~ el commit anterior a HEAD, HEAD~~ el commit anterior a HEAD~ y HEAD~2 el **abuelo** de HEAD
+- HEAD\~2
+Siendo HEAD el commit más reciente, HEAD\~ el commit anterior a HEAD, HEAD~~ el commit anterior a HEAD~ y HEAD~2 el **bisabuelo** de HEAD
 
 Sin flags adicionales, este comando altera el historial de commits, pero deja los archivos del proyecto intactos.
 
